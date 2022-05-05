@@ -1,2 +1,2 @@
 # Projetos pessoais
-Esse repositório serve para eu salvar os meus projetos independentes de python.
+Esse repositório serve para eu salvar os meus projetos independentes.
